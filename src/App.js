@@ -1,5 +1,11 @@
+import AllBack from "./allBack";
+
 function App() {
-    return <div>APP</div>;
+    return (
+        <>
+            <AllBack />
+        </>
+    );
 }
 
 export default App;
